@@ -1,2 +1,1 @@
-# KanguroJudgoFinalNovEmiliano
-piedras,restart, gameOver,felicidades.. Anexos
+# PRO-C38-CANGURO-EN-LA-SELVA-1
